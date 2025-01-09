@@ -7,8 +7,6 @@ require (
 	github.com/vishvananda/netlink v1.3.0
 )
 
-replace github.com/vishvananda/netlink => github.com/carnerito/netlink v0.0.0-20241205082656-bd0169e1760b
-
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
